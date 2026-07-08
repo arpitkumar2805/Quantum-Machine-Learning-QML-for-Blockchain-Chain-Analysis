@@ -219,20 +219,7 @@ python src/pca/reduce_dimensions.py
 
 *(Update these commands to match your actual scripts.)*
 
-## Results Snapshot
 
-| Stage | Status |
-|---|---|
-| Data cleaning | ✅ Complete |
-| Feature selection | ✅ Complete |
-| Min-Max normalization | ✅ Complete |
-| PCA (2 components) + visualization | ✅ Complete |
-| Quantum encoding | 🔜 Planned |
-| QSVM training & kernel estimation | 🔜 Planned |
-| SMOTE-based imbalance handling | 🔜 Planned |
-| Comparative evaluation vs. classical baselines | 🔜 Planned |
-| Real quantum hardware validation | 🔜 Planned |
-| Real-time monitoring integration | 🔜 Planned |
 
 
 
