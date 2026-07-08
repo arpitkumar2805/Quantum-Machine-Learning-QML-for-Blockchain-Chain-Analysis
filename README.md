@@ -234,30 +234,5 @@ python src/pca/reduce_dimensions.py
 | Real quantum hardware validation | 🔜 Planned |
 | Real-time monitoring integration | 🔜 Planned |
 
-## Authors
 
-- **Arpit Kumar** — USN: 1RN23CY006, Dept. of CSE (Cyber Security), RNS Institute of Technology
-- **Aryan P** — USN: 1RN23CY007, Dept. of CSE (Cyber Security), RNS Institute of Technology
-- **Thanushree M S** — USN: 1RN23CY061, Dept. of CSE (Cyber Security), RNS Institute of Technology
 
-**Guided by:** Mrs. Yashaswini Nag MN, Assistant Professor, Dept. of CSE (Cyber Security), RNS Institute of Technology
-
-## Acknowledgments
-
-The authors thank Mrs. Yashaswini Nag MN for her valuable guidance throughout this work, and gratefully acknowledge **RNS Institute of Technology, Bengaluru**, for providing the research infrastructure.
-
-## References
-
-Key references informing this work (full list in the accompanying paper):
-
-- Rebentrost, P., Mohseni, M., & Lloyd, S. (2014). *Quantum support vector machine for big data classification.* Phys. Rev. Lett.
-- Schuld, M., & Killoran, N. (2019). *Quantum machine learning in feature Hilbert spaces.* Phys. Rev. Lett.
-- Havlíček, V. et al. (2019). *Supervised learning with quantum-enhanced feature spaces.* Nature.
-- Weber, M. et al. (2019). *Anti-money laundering in Bitcoin: Experimenting with graph convolutional networks for financial forensics.* arXiv:1908.02591.
-- Farrugia, S., Ellul, J., & Azzopardi, G. (2020). *Detection of illicit accounts over the Ethereum blockchain.* Expert Systems with Applications.
-- Chawla, N. V. et al. (2002). *SMOTE: Synthetic minority over-sampling technique.* J. of Artificial Intelligence Research.
-- IBM Quantum. *Qiskit: An open-source framework for quantum computing.* Zenodo, 2021.
-
-## License
-
-*(Add your chosen license here — e.g., MIT, Apache 2.0.)*
